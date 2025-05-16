@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a final year MD trying to learn coding and hopefully make my way into AI/ML and it's applications in medicine.  
+Starting out with Python.  
+Can collaborate on any Healthcare AI project as a clinical coordinator/ medical data validator
+
 
 <!--
 **uglygoat153/uglygoat153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
