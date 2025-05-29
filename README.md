@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm a final year MD trying to learn coding and hopefully make my way into AI/ML and it's applications in medicine.  
 Starting out with R.    
-Can collaborate on any Healthcare AI project as a clinical coordinator / medical data validator  
+Can collaborate on any Healthcare AI project as a clinical coordinator / medical data validator   
+
 Currently working on a Healthcare AI model at the Indian Institute of Science, Bangalore
 
  [![My Skills](https://skillicons.dev/icons?i=html,r)](https://skillicons.dev)
